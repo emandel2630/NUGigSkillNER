@@ -1,6 +1,7 @@
 # native packs
 #
 # installed packs
+from spacy import displacy
 # my packs
 from skillNer.text_class import Text
 from skillNer.matcher_class import Matchers, SkillsGetter
